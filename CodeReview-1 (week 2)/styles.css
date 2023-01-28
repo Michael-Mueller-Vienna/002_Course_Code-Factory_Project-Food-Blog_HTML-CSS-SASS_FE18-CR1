@@ -1,1 +1,18 @@
-/*# sourceMappingURL=styles.css.map */
+.flex-container-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-container-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.flex-container-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}/*# sourceMappingURL=styles.css.map */
